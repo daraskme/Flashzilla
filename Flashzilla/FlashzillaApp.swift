@@ -1,9 +1,3 @@
-//
-//  FlashzillaApp.swift
-//  Flashzilla
-//
-//  Created by Hiroshi Inoue on 8/4/23.
-//
 
 import SwiftUI
 
